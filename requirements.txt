@@ -24,7 +24,7 @@ decouple==0.0.7
 defusedxml==0.7.1
 Deprecated==1.2.14
 distro==1.4.0
-distro-info===0.23ubuntu1
+
 dj-database-url==2.0.0
 Django==4.2.3
 django-braces==1.15.0
